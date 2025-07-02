@@ -1,0 +1,14 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Vivamus euismod, nisi at consequat pharetra, ligula arcu cursus velit, nec sagittis lorem ipsum sit amet enim.
+Cras porttitor, tortor a pretium tincidunt, orci erat malesuada lorem, sed sagittis ex turpis ac ligula.
+
+The quick brown fox jumps over the lazy dog.
+This is a test file to check compression and decompression functionality using C++ and zlib.
+
+Repeat the sentence to increase file size and test chunking performance.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+End of sample file.
